@@ -1,7 +1,7 @@
 # AIA-CLI
 
 <p align="center">
-  <img src="logo.png" width="259" height="121" alt="Project Logo">
+  <img src="aia.png" width="259" height="121" alt="Project Logo">
 </p>
 
 AI Advanced CLI
