@@ -1,12 +1,10 @@
 # AIA-CLI
-AI Advanced CLI
 
-       _____   ___   _____   
-      /  _  \ |   | /  _  \  
-     /  /_\  \|   |/  /_\  \ 
-    /    |    \   /    |    \
-    \____|__  /___\____|__  /
-            \/            \/ 
+<p align="center">
+  <img src="assets/logo.png" width="259" height="121" alt="Project Logo">
+</p>
+
+AI Advanced CLI
 
 # Installation
 sudo apt-get install dos2unix
